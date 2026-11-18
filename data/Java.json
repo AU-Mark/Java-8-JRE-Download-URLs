@@ -1,77 +1,77 @@
 {
   "Product": "Oracle Java 8 JRE",
-  "LastUpdated": "2026-10-21T12:47:40Z",
+  "LastUpdated": "2026-11-18T16:16:44Z",
   "SourceUrl": "https://www.java.com/en/download/manual.jsp",
   "Latest": {
-    "Version": "8u511",
-    "UpdateNumber": 511,
-    "ReleaseDate": "October 20, 2026",
-    "UpdatedOn": "2026-10-21T12:47:40Z",
+    "Version": "8u513",
+    "UpdateNumber": 513,
+    "ReleaseDate": "November 17, 2026",
+    "UpdatedOn": "2026-11-18T16:16:44Z",
     "Downloads": {
+      "Windows_Online": {
+        "Platform": "Windows_Online",
+        "BundleId": "254203",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254203_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": null
+      },
       "Linux_x86_RPM": {
         "Platform": "Linux_x86_RPM",
-        "BundleId": "253965",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253965_d564311dd56c4871a465018788e32a1f",
-        "FileSize": "51.58 MB"
+        "BundleId": "254192",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254192_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": "51.59 MB"
+      },
+      "Windows_x64": {
+        "Platform": "Windows_x64",
+        "BundleId": "254205",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254205_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": null
       },
       "Linux_x64": {
         "Platform": "Linux_x64",
-        "BundleId": "253968",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253968_d564311dd56c4871a465018788e32a1f",
-        "FileSize": "103.72 MB"
-      },
-      "Linux_x64_RPM": {
-        "Platform": "Linux_x64_RPM",
-        "BundleId": "253967",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253967_d564311dd56c4871a465018788e32a1f",
-        "FileSize": "106.77 MB"
-      },
-      "macOS_x64": {
-        "Platform": "macOS_x64",
-        "BundleId": "253971",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253971_d564311dd56c4871a465018788e32a1f",
-        "FileSize": null
-      },
-      "Solaris_x64": {
-        "Platform": "Solaris_x64",
-        "BundleId": "253974",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253974_d564311dd56c4871a465018788e32a1f",
-        "FileSize": "51.29 MB"
-      },
-      "Linux_x86": {
-        "Platform": "Linux_x86",
-        "BundleId": "253966",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253966_d564311dd56c4871a465018788e32a1f",
-        "FileSize": "48.35 MB"
-      },
-      "macOS_ARM64": {
-        "Platform": "macOS_ARM64",
-        "BundleId": "253969",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253969_d564311dd56c4871a465018788e32a1f",
-        "FileSize": null
-      },
-      "Windows_Online": {
-        "Platform": "Windows_Online",
-        "BundleId": "253976",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253976_d564311dd56c4871a465018788e32a1f",
-        "FileSize": null
+        "BundleId": "254195",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254195_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": "103.73 MB"
       },
       "Solaris_SPARC64": {
         "Platform": "Solaris_SPARC64",
-        "BundleId": "253973",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253973_d564311dd56c4871a465018788e32a1f",
+        "BundleId": "254200",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254200_0d75e87f2be44001b911a40e63560df4",
         "FileSize": null
       },
       "Windows_x86": {
         "Platform": "Windows_x86",
-        "BundleId": "253977",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253977_d564311dd56c4871a465018788e32a1f",
+        "BundleId": "254204",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254204_0d75e87f2be44001b911a40e63560df4",
         "FileSize": null
       },
-      "Windows_x64": {
-        "Platform": "Windows_x64",
-        "BundleId": "253978",
-        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253978_d564311dd56c4871a465018788e32a1f",
+      "Solaris_x64": {
+        "Platform": "Solaris_x64",
+        "BundleId": "254201",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254201_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": "51.30 MB"
+      },
+      "Linux_x86": {
+        "Platform": "Linux_x86",
+        "BundleId": "254193",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254193_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": "48.36 MB"
+      },
+      "macOS_ARM64": {
+        "Platform": "macOS_ARM64",
+        "BundleId": "254196",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254196_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": null
+      },
+      "Linux_x64_RPM": {
+        "Platform": "Linux_x64_RPM",
+        "BundleId": "254194",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254194_0d75e87f2be44001b911a40e63560df4",
+        "FileSize": "106.79 MB"
+      },
+      "macOS_x64": {
+        "Platform": "macOS_x64",
+        "BundleId": "254198",
+        "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=254198_0d75e87f2be44001b911a40e63560df4",
         "FileSize": null
       }
     }
@@ -443,6 +443,80 @@
           "Platform": "Windows_x64",
           "BundleId": "253608",
           "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253608_2fde65a2208f40a5b5f4c844b0dff092",
+          "FileSize": null
+        }
+      }
+    },
+    "8u511": {
+      "Version": "8u511",
+      "UpdateNumber": 511,
+      "ReleaseDate": "October 20, 2026",
+      "ArchivedOn": "2026-11-18T16:16:44Z",
+      "Downloads": {
+        "Linux_x86_RPM": {
+          "Platform": "Linux_x86_RPM",
+          "BundleId": "253965",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253965_d564311dd56c4871a465018788e32a1f",
+          "FileSize": "51.58 MB"
+        },
+        "Linux_x64": {
+          "Platform": "Linux_x64",
+          "BundleId": "253968",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253968_d564311dd56c4871a465018788e32a1f",
+          "FileSize": "103.72 MB"
+        },
+        "Linux_x64_RPM": {
+          "Platform": "Linux_x64_RPM",
+          "BundleId": "253967",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253967_d564311dd56c4871a465018788e32a1f",
+          "FileSize": "106.77 MB"
+        },
+        "macOS_x64": {
+          "Platform": "macOS_x64",
+          "BundleId": "253971",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253971_d564311dd56c4871a465018788e32a1f",
+          "FileSize": null
+        },
+        "Solaris_x64": {
+          "Platform": "Solaris_x64",
+          "BundleId": "253974",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253974_d564311dd56c4871a465018788e32a1f",
+          "FileSize": "51.29 MB"
+        },
+        "Linux_x86": {
+          "Platform": "Linux_x86",
+          "BundleId": "253966",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253966_d564311dd56c4871a465018788e32a1f",
+          "FileSize": "48.35 MB"
+        },
+        "macOS_ARM64": {
+          "Platform": "macOS_ARM64",
+          "BundleId": "253969",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253969_d564311dd56c4871a465018788e32a1f",
+          "FileSize": null
+        },
+        "Windows_Online": {
+          "Platform": "Windows_Online",
+          "BundleId": "253976",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253976_d564311dd56c4871a465018788e32a1f",
+          "FileSize": null
+        },
+        "Solaris_SPARC64": {
+          "Platform": "Solaris_SPARC64",
+          "BundleId": "253973",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253973_d564311dd56c4871a465018788e32a1f",
+          "FileSize": null
+        },
+        "Windows_x86": {
+          "Platform": "Windows_x86",
+          "BundleId": "253977",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253977_d564311dd56c4871a465018788e32a1f",
+          "FileSize": null
+        },
+        "Windows_x64": {
+          "Platform": "Windows_x64",
+          "BundleId": "253978",
+          "Url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253978_d564311dd56c4871a465018788e32a1f",
           "FileSize": null
         }
       }
